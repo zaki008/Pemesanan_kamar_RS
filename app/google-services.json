@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "911567767260",
+    "firebase_url": "https://kesehatan-e4e5c.firebaseio.com",
+    "project_id": "kesehatan-e4e5c",
+    "storage_bucket": "kesehatan-e4e5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911567767260:android:c916ce78527ab349",
+        "android_client_info": {
+          "package_name": "com.digitalhealth.kesehatan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911567767260-ukss8cnghtkbs47g3us06q86b3vejitk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digitalhealth.kesehatan",
+            "certificate_hash": "302593d8397822c6e5a3b9a3f187703e0316d470"
+          }
+        },
+        {
+          "client_id": "911567767260-s48vscl6783ecv39bbmm8pikpuijm9f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjIaDWqiS4MobJkKbRf0p_CYeZxc9j2VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911567767260-s48vscl6783ecv39bbmm8pikpuijm9f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

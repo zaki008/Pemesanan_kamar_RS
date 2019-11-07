@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.digitalhealth.kesehatan">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo_aplikasi"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logo_aplikasi"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Detail_Pesananku"></activity>
+        <activity android:name=".Bpjs" />
+        <activity android:name=".Pilih_Pembayaran" />
+        <activity android:name=".Edit_Profile" />
+        <activity android:name=".View_Pesanan" />
+        <activity android:name=".Success_pemesanan" />
+        <activity android:name=".Detail_Pesanan" />
+        <activity android:name=".Detail_Gol" />
+        <activity android:name=".Pemesanan2" />
+        <activity android:name=".Pemesanan1" />
+        <activity android:name=".InfoRsAct" />
+        <activity android:name=".Dashboard" />
+        <activity android:name=".SuccessAct" />
+        <activity android:name=".RegisterAct" />
+        <activity android:name=".SignAct" />
+        <activity android:name=".Get_Started" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
